@@ -1,15 +1,4 @@
-# Persistence_XML
+## This is a persistence XML File for JPA development.
+This is not a project
 
-<persistence-unit name="dev">
-	<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-	<shared-cache-mode>ENABLE_SELECTIVE</shared-cache-mode>
-	<properties>
-		<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
-		<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/hdbc" />
-		<property name="javax.persistence.jdbc.user" value="root" />
-		<property name="javax.persistence.jdbc.password" value="root" />
-		<property name="hibernate.show_sql" value="true" />
-		<property name="hibernate.hbm2ddl.auto" value="update" />
-		<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
-	</properties>
-</persistence-unit>
+![image](https://github.com/SoumyadipBhowmik/Persistence_XML/assets/105037882/a6759cd2-66fe-4a22-9bd8-f0f95efbb44a)
