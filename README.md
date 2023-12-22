@@ -1,8 +1,6 @@
 ## This is a persistence XML File for JPA development.
 This is not a project
 
-![image](https://github.com/SoumyadipBhowmik/Persistence_XML/assets/105037882/a6759cd2-66fe-4a22-9bd8-f0f95efbb44a)
-
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
